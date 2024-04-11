@@ -2,7 +2,7 @@ Rules to Solve
 
 Problem Statement: You’re giving a mathematical statement and you need to create a correct combination of digits, to make LHS = RHS. Note : One Digit may only be used once, in some cases the all the digits may not be available.
 
-Marking: (PrepInsta’s Secret Sauce)
+Marking:
 
     Everytime you solve a problem correctly you level up.
     In each level the difficulty of the problem increases.
