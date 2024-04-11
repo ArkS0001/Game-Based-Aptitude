@@ -15,4 +15,5 @@ Marking Scheme
     Level Rewards = (Current-Level)2/(Time taken at Level)
     Total Rewards = Σ (Rewards at each  level)
 
-![Screenshot 2024-04-11 at 15-41-11 Capgemini Exceller Game based Aptitude Test Questions 2023 PrepInsta](https://github.com/ArkS0001/Game-Based-Aptitude/assets/113760964/6e38a297-66b2-4240-aea7-38ef194a5d35)
+![Screenshot 2024-04-11 at 15-42-47 Capgemini Exceller Game based Aptitude Test Questions 2023 PrepInsta](https://github.com/ArkS0001/Game-Based-Aptitude/assets/113760964/4e759bca-2b17-427a-bc45-cdc2059b43d2)
+
