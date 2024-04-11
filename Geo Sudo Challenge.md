@@ -6,7 +6,7 @@ Decoding Rules
 
     One geometrical shape can only occur once, in any row or any column
 
-Marking: (PrepInsta’s Secret Sauce)
+Marking:
 
     Everytime you solve a problem correctly you level up.
     In each level the difficulty of the problem increases.
