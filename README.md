@@ -16,3 +16,6 @@ Some key features of game-based aptitude assessments include:
     Data-driven Insights: Game-based assessments generate rich data about the player's behavior and decision-making processes. Analyzing this data can provide valuable insights into the individual's cognitive strengths and weaknesses.
 
     Accessibility: Game-based assessments can be easily accessed and completed remotely through digital platforms, making them convenient for both test-takers and administrators.
+
+![Screenshot 2024-04-11 at 15-49-48 Capgemini Game-Based Aptitude Test](https://github.com/ArkS0001/Game-Based-Aptitude/assets/113760964/077b8888-f518-414f-afa9-91ce2c23f304)
+
