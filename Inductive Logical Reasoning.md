@@ -1,0 +1,1 @@
+![Screenshot 2024-04-11 at 15-47-50 Capgemini Exceller Game based Aptitude Test Questions 2023 PrepInsta](https://github.com/ArkS0001/Game-Based-Aptitude/assets/113760964/2989a006-a064-4b16-b62d-35ea511eab2c)
