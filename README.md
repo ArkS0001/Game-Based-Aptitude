@@ -17,5 +17,6 @@ Some key features of game-based aptitude assessments include:
 
     Accessibility: Game-based assessments can be easily accessed and completed remotely through digital platforms, making them convenient for both test-takers and administrators.
 
-![Screenshot 2024-04-11 at 15-49-48 Capgemini Game-Based Aptitude Test](https://github.com/ArkS0001/Game-Based-Aptitude/assets/113760964/077b8888-f518-414f-afa9-91ce2c23f304)
+![Screenshot 2024-04-11 at 15-50-59 Capgemini Game-Based Aptitude Test](https://github.com/ArkS0001/Game-Based-Aptitude/assets/113760964/f4c8f6bb-73b7-4241-b975-2772b70ff57f)
+
 
