@@ -1,5 +1,8 @@
 # Game-Based-Aptitude
 
+![Screenshot 2024-04-11 at 15-34-14 Capgemini Exceller Game based Aptitude Test Questions 2023 PrepInsta](https://github.com/ArkS0001/Game-Based-Aptitude/assets/113760964/c3ddb92f-ed92-46ea-b1e1-fcde0cc3bd47)
+
+
 Game-based aptitude assessments are a fascinating way to evaluate skills and abilities through interactive challenges, often in a more engaging and immersive manner than traditional tests. These assessments typically leverage various game mechanics and scenarios to measure cognitive abilities such as problem-solving, critical thinking, decision-making, spatial awareness, and pattern recognition.
 
 Some key features of game-based aptitude assessments include:
